@@ -1,4 +1,4 @@
-# StudentManagement2
+# C# Student Management
 
 Bài tập C# WinForms Tạo ứng dụng Quản lý Sinh viên
 
