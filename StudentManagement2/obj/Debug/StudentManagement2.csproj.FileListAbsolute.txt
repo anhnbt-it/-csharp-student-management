@@ -1,0 +1,10 @@
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.exe.config
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.exe
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.pdb
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csprojAssemblyReference.cache
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.FrmMain.resources
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.Properties.Resources.resources
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csproj.GenerateResource.cache
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csproj.CoreCompileInputs.cache
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.exe
+C:\Users\anhnb\OneDrive\Documents\learn\hanoi-aptech\CSharp\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.pdb
